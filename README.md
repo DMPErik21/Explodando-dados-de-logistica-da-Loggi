@@ -1,2 +1,2 @@
-# Explodando-dados-de-logistica-da-Loggi
+# Explorando-dados-de-logistica-da-Loggi
 -----
